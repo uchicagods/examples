@@ -1,1 +1,2 @@
 Divvy_Chicago.ipynb filter=lfs diff=lfs merge=lfs -text
+Divvy filter=lfs diff=lfs merge=lfs -text
