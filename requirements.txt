@@ -1,2 +1,2 @@
-geopandas==0.5.1
+geopandas==1.1.2
 plotly==4.1.1
